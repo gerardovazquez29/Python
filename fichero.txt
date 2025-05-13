@@ -1,0 +1,8 @@
+
+mi nombre es Gerardo
+mi apellido es Vazquez
+tengo 43 años
+soy ingeniero en sisitemas
+me estoy enseñando a programar
+mi lenguaje es python
+Tambien quiero aprender SQL

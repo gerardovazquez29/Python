@@ -1,0 +1,11 @@
+{
+  "name": "Gerardo",
+  "surname": "Vazquez",
+  "age": 43,
+  "country": "Tlaquepaque",
+  "Lenguajes": [
+    "Python",
+    "PHP",
+    "Javascript"
+  ]
+}
